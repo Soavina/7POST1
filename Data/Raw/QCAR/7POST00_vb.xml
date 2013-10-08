@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ALI_HARRI30A" size="665.000000 980.000000" />
+    <ImageTarget name="ALI08A" size="794.000000 465.000000" />
+    <ImageTarget name="HARRI31A" size="560.000000 656.000000" />
+    <ImageTarget name="HARRI31" size="794.000000 1106.000000" />
+    <ImageTarget name="HARRI23" size="794.000000 1106.000000" />
+    <ImageTarget name="HARRI15" size="794.000000 1106.000000" />
+    <ImageTarget name="HARRI07" size="794.000000 1106.000000" />
+    <ImageTarget name="HARRI01" size="794.000000 1106.000000" />
+    <ImageTarget name="HARRI29" size="794.000000 1106.000000" />
+    <ImageTarget name="ALI23" size="794.000000 1106.000000" />
+    <ImageTarget name="ALI19" size="794.000000 1106.000000" />
+    <ImageTarget name="ALI13" size="794.000000 1106.000000" />
+    <ImageTarget name="ALI07" size="794.000000 1106.000000" />
+    <ImageTarget name="ALI01" size="794.000000 1106.000000" />
+  </Tracking>
+</QCARConfig>
